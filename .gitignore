@@ -1,4 +1,4 @@
-solutions/
+# solutions/
 .DS_Store
 .ipynb_checkpoints/
 output/*.db*
