@@ -6,3 +6,6 @@ output/*.db*
 __pycache__/
 .env
 .vscode/
+*.csv
+*.xlsx
+*.log
